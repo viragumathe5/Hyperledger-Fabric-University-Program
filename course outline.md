@@ -47,5 +47,3 @@ For better delivering the course content each of the elements are divided into s
 1. Educational Materials
 2. Quizzes
 3. Lab material
-
- 
