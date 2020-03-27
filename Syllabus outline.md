@@ -41,7 +41,7 @@ The above three elements are further divided into the folowing parts for advance
 9. Hyperledger fabric transaction.
 10. Full lifecycle for fabric transaction.
 
-### Outcome from secont element
+### Outcome from second element
 Student will get familiar with.
 * Hyperledger and Hyperledger Fabric.
 * Architecture of hyperleger fabric.
@@ -55,7 +55,7 @@ Student will get familiar with.
 4. Components of the hyperledger umbra.
 5. Examples and usedcases.
 
-### Outcome from secont element
+### Outcome from third element
 Students wil get familiar with
 * Hyperledger Umbra
 * Foundation, scope and Architecture.
