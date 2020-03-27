@@ -33,7 +33,7 @@ For better delivering the course content each of the elements are divided into s
 
 ### Delivering the content
 1. Instructional Strategies (Notes, Videos, Self discussion labs, etc)
-2 Problematic student feedback
+2. Problematic student feedback
 3. Student support system
 
 ----
